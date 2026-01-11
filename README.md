@@ -55,8 +55,13 @@
 
 
 **How to Run** 🏃‍♂️:
+
 1)Clone the repository:
+
 2)git clone https://github.com/Uves-Mukadam/java-swing-todo-list.git
+
 3)Open the project in an IDE (Eclipse, IntelliJ IDEA, etc.)
+
 4)Run App.java
+
 5)Start adding and managing tasks
